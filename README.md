@@ -61,3 +61,9 @@ sample                               sample                                   sa
 
 [db2inst1@9b483c1926bf ~]$
 ```
+
+## 参考
+
+- [Db2/DBコンテナに初期テストデータを挿入した状態でセットアップ](https://qiita.com/rikkyrice/items/20946fc5b4e2153b0f87)
+
+- [初めてのIBM Db2コンテナ作成体験談！Dockerで簡単データベース構築](https://uepon.hatenadiary.com/entry/2024/07/05/172413)
